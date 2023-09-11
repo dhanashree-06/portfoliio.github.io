@@ -283,8 +283,8 @@ h6 {
     justify-content: flex-start;
 }
   ul.skills-list li{
-    margin-bottom: 35px;
-    margin-left:20px;
+    margin-bottom: 25px;
+    margin-left:25px;
   }
   ul.skills-list li:last-child{margin-bottom: 0; }
 }
