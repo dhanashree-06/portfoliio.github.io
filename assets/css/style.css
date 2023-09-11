@@ -278,6 +278,13 @@ h6 {
     line-height: 24px;
     margin-bottom: 30px;
   }
+  ul.skills-list {
+    flex-wrap: wrap;
+}
+  ul.skills-list li{
+    margin-bottom: 35px;
+  }
+  ul.skills-list li:last-child{margin-bottom: 0;}
 }
 
 /*--------------------------------------------------------------
