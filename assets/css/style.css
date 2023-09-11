@@ -280,11 +280,13 @@ h6 {
   }
   ul.skills-list {
     flex-wrap: wrap;
+    justify-content: flex-start;
 }
   ul.skills-list li{
     margin-bottom: 35px;
+    margin-left:20px;
   }
-  ul.skills-list li:last-child{margin-bottom: 0;}
+  ul.skills-list li:last-child{margin-bottom: 0; }
 }
 
 /*--------------------------------------------------------------
