@@ -386,7 +386,9 @@ a.download-resume:hover {
   transition: 1s;
   color: #173b6c;
 }
-
+section#about img {
+    height: -webkit-fill-available;
+}
 /*--------------------------------------------------------------
 # Akills
 --------------------------------------------------------------*/
